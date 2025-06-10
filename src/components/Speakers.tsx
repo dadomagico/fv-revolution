@@ -32,7 +32,7 @@ const Speakers: React.FC = () => {
     {
       name: "Dr. Filippo Ongaro",
       role: "Specialista in Medicina Anti-Aging e Longevità",
-      image: "/public/images/filippo-ongaro-bio.jpg",
+      image: "/images/relatore_f_ongaro.jpg",
       description: "Primo medico italiano certificato in medicina anti-aging, ex medico degli astronauti ESA. Pioniere nell'approccio preventivo e nella medicina della longevità.",
       expertise: ["Medicina Preventiva", "Anti-Aging", "Performance Optimization"],
       icon: <Star className="h-6 w-6" />
@@ -40,7 +40,7 @@ const Speakers: React.FC = () => {
     {
       name: "Dr. Attilio Speciani",
       role: "Immunologo e Nutrizionista",
-      image: "/public/images/DSC_0742-1-scaled-e1718271405607.jpg",
+      image: "/public/images/images/evento_sala_2.jpg",
       description: "Specialista in allergologia e immunologia clinica, leader nei protocolli anti-infiammatori. Autore di numerose pubblicazioni scientifiche.",
       expertise: ["Immunologia", "Nutrizione", "Protocolli Anti-infiammatori"],
       icon: <Award className="h-6 w-6" />
@@ -48,7 +48,7 @@ const Speakers: React.FC = () => {
     {
       name: "Dott. Massimo Slaviero",
       role: "CEO di Unifarco",
-      image: "/public/images/unifarco2.jpg",
+      image: "/images/relatore_unifarco.jpg",
       description: "Leader nell'industria dermocosmética per farmacia. Visionario nell'innovazione di prodotti per il benessere e la cura della persona.",
       expertise: ["Dermocosmesi", "Business Strategy", "Innovation"],
       icon: <Building2 className="h-6 w-6" />
@@ -56,7 +56,7 @@ const Speakers: React.FC = () => {
     {
       name: "Arch. Luca Sartoretto Verna",
       role: "CEO Sartoretto Verna - Innovatore Design Farmacie",
-      image: "/public/images/lsv-1.jpg",
+      image: "/images/relatore_lsv.jpg",
       description: "Architetto visionario specializzato nel design innovativo di farmacie. Pioniere nell'ottimizzazione degli spazi commerciali farmaceutici.",
       expertise: ["Design Innovation", "Retail Strategy", "Space Optimization"],
       icon: <Users className="h-6 w-6" />

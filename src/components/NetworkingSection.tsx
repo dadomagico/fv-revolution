@@ -44,7 +44,7 @@ const NetworkingSection: React.FC = () => {
           {/* Networking Image */}
           <div className="scroll-reveal h-full flex items-stretch">
             <img 
-              src="/public/images/VISTA_Acquario-Romano.jpg"
+              src="/images/location_acquario_romano.jpg"
               alt="New image 3"
               className="w-full h-full object-cover rounded-2xl shadow-lg"
               style={{height: '100%'}}

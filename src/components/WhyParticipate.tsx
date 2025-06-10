@@ -75,7 +75,7 @@ const WhyParticipate: React.FC = () => {
 
         {/* Hero Image */}
         <div className="mb-16 scroll-reveal">
-          <img src="/public/images/dadomagico_httpss.mj.rungmbyY_vyGSw_farmacisti_in_sessione_fo_84e3e15c-97e8-41e3-b324-3b57318f7cfc_3.png" alt="Farmacisti in sessione" className="w-full aspect-[2/1] object-cover object-top rounded-2xl shadow-lg" style={{objectPosition: 'top'}} />
+          <img src="/images/farmacisti_sessione_1.jpg" alt="Farmacisti in sessione" className="w-full aspect-[2/1] object-cover object-top rounded-2xl shadow-lg" style={{objectPosition: 'top'}} />
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">

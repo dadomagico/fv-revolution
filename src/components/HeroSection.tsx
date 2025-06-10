@@ -46,7 +46,7 @@ const HeroSection: React.FC = () => {
       {/* Hero Image */}
       <div className="absolute inset-0 z-0 opacity-20">
         <img 
-          src="/public/images/Senza-titolo-1.png"
+          src="/images/location_sala_2.jpg"
           alt="New image 2"
           className="w-full h-full object-cover"
         />

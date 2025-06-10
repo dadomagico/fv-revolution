@@ -111,7 +111,7 @@ const Program: React.FC = () => {
           {/* Colonna Mattina */}
           <div>
             <div className="scroll-reveal mb-4">
-              <img src="/public/images/dadomagico_httpss.mj.rungmbyY_vyGSw_farmacisti_in_sessione_fo_ed22b99b-a40e-47e8-b69d-5028bbfaa92b_3.png" alt="Farmacisti in sessione" className="w-full aspect-[2/1] object-cover rounded-2xl shadow-lg object-top" style={{objectPosition: 'top'}} />
+              <img src="/images/farmacisti_sessione_2.jpg" alt="Farmacisti in sessione" className="w-full aspect-[2/1] object-cover rounded-2xl shadow-lg object-top" style={{objectPosition: 'top'}} />
             </div>
             <div className="scroll-reveal">
               <div className="bg-gradient-to-br from-primary-50 to-primary-100 rounded-3xl p-8">
@@ -141,7 +141,7 @@ const Program: React.FC = () => {
           {/* Colonna Pomeriggio */}
           <div>
             <div className="scroll-reveal mb-4">
-              <img src="/public/images/dadomagico_elegant_networking_event_inside_a_modern_congress__92535bc6-e073-4165-b391-c7ec95bee384_1.png" alt="Networking event" className="w-full aspect-[2/1] object-cover rounded-2xl shadow-lg object-top" style={{objectPosition: 'top'}} />
+              <img src="/images/evento_networking.jpg" alt="Networking event" className="w-full aspect-[2/1] object-cover rounded-2xl shadow-lg object-top" style={{objectPosition: 'top'}} />
             </div>
             <div className="scroll-reveal">
               <div className="bg-gradient-to-br from-secondary-50 to-secondary-100 rounded-3xl p-8">
